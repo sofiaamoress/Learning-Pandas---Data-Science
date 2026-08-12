@@ -4,7 +4,7 @@ This repository contains a hands-on Data Science project where I analyze a full 
 
 This project initially started as part of my learning journey by following Keith Galli's tutorial "Solving real world data science tasks" to master data analysis with Python. 
 
-However, **I later took it a step further**. After completing the guided portion, I sourced my own datasets and experimented with them independently to put my newly acquired skills to the test without a step-by-step guide.
+However, **I am taking it a step further**. After completing the guided portion, I am sourcing my own datasets and experimented with them independently to put my newly acquired skills to the test without a step-by-step guide.
 
 ## 🛠️ Tools & Technologies
 * **Python**
@@ -12,8 +12,8 @@ However, **I later took it a step further**. After completing the guided portion
 * **Matplotlib** (Data visualization)
 * **Jupyter Notebooks** (Development environment)
 
-## 🧠 What I've Learned
-During the development of this project, I have practiced and applied the following skills:
+## 🧠 What I'm Learning
+During the development of this project, I am practicing and applying the following skills:
 * Merging multiple CSV files into a single DataFrame.
 * Data cleaning: detecting and removing missing values and filtering out corrupted rows.
 * Extraction of useful information.
